@@ -5,7 +5,7 @@ select point.name,
             ),
             4326
         ),
-        'marker-symbol' as "rail-underground"
+        'rail-underground' as "marker-symbol"
     from planet_osm_point as point, 
          planet_osm_polygon as polygon 
     where polygon.name = 'Praha' AND 
