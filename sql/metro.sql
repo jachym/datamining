@@ -4,7 +4,8 @@ select point.name,
                 ST_Union(point.way)
             ),
             4326
-        )
+        ),
+        'marker-symbol' as "rail-underground"
     from planet_osm_point as point, 
          planet_osm_polygon as polygon 
     where polygon.name = 'Praha' AND 
