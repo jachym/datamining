@@ -2,85 +2,119 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "name": "Můstek, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.42279721799234, 50.083785680155579 ] } }
+{ "type": "Feature", "properties": { "name": "Zličín, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.290754198010719, 50.053675394816942 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Pankrác, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.439920197989972, 50.050827095431202 ] } }
+{ "type": "Feature", "properties": { "name": "Stodůlky, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.30772989800839, 50.046751594817152 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Depo Hostivař, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.515525597979448, 50.075695294816214 ] } }
+{ "type": "Feature", "properties": { "name": "Luka, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.321373098006495, 50.04564769481717 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Lužiny, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.331481498005015, 50.044557294817217 ] } }
+{ "type": "Feature", "properties": { "name": "Lužiny, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.330938198005088, 50.044540894817189 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Českomoravská, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.492739197982607, 50.106447994815312 ] } }
+{ "type": "Feature", "properties": { "name": "Hůrka, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.342226498003544, 50.04995659481704 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Můstek, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.425968517991896, 50.082459738696272 ] } }
+{ "type": "Feature", "properties": { "name": "Nové Butovice, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.352046098002168, 50.050868394816966 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Náměstí Republiky, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.432496097990985, 50.088369315527842 ] } }
+{ "type": "Feature", "properties": { "name": "Jinonice, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.370313397999668, 50.054463294816856 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Karlovo náměstí, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.41712075354868, 50.07461002344931 ] } }
+{ "type": "Feature", "properties": { "name": "Radlická, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.388360597997115, 50.057973694816759 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "I. P. Pavlova, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.430323897991286, 50.075472694928379 ] } }
+{ "type": "Feature", "properties": { "name": "Dejvická, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.392576797996551, 50.100400994815473 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Ládví, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.469773437985793, 50.126463535058001 ] } }
+{ "type": "Feature", "properties": { "name": "Hradčanská, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.40367009799496, 50.097171194815559 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Střížkov, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.489385577983077, 50.12618171536657 ] } }
+{ "type": "Feature", "properties": { "name": "Anděl, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.40404179799498, 50.070461494816406 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Hůrka, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.342018298003577, 50.049953894817058 ] } }
+{ "type": "Feature", "properties": { "name": "Smíchovské nádraží, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.408970897994267, 50.060591994816718 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Prosek, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.498908277981739, 50.118976535409026 ] } }
+{ "type": "Feature", "properties": { "name": "Malostranská, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.409524797994177, 50.090818194815782 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Háje, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.527385197977766, 50.030767295547086 ] } }
+{ "type": "Feature", "properties": { "name": "Staroměstská, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.417194297993106, 50.088036194815828 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Vltavská, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.438416997990158, 50.099040269864894 ] } }
+{ "type": "Feature", "properties": { "name": "Karlovo náměstí, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.41761359799302, 50.07481799481625 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Křižíkova, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.451688097988299, 50.093575694815655 ] } }
+{ "type": "Feature", "properties": { "name": "Národní třída, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.420157597992679, 50.081277794816053 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Chodov, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.491647314649416, 50.031105795397096 ] } }
+{ "type": "Feature", "properties": { "name": "Můstek, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.423316197992234, 50.084150394815978 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Staroměstská, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.416407264659904, 50.088421861658581 ] } }
+{ "type": "Feature", "properties": { "name": "Můstek, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.424002497992127, 50.083669694815953 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Náměstí Republiky, metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.428604031324852, 50.088238761766476 ] } }
+{ "type": "Feature", "properties": { "name": "Vyšehrad, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.430516997991298, 50.063157994816599 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Strašnická, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.491186197982806, 50.072789694816322 ] } }
+{ "type": "Feature", "properties": { "name": "I. P. Pavlova, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.430799097991182, 50.075454494816242 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Nádraží Holešovice, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.440174247989919, 50.109039897952748 ] } }
+{ "type": "Feature", "properties": { "name": "Muzeum, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.431192197991173, 50.079572694816086 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Florenc, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.439296922990033, 50.090105673255188 ] } }
+{ "type": "Feature", "properties": { "name": "Muzeum, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.431549797991105, 50.080352394816053 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Palmovka, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.474618410485107, 50.104129099819275 ] } }
+{ "type": "Feature", "properties": { "name": "Náměstí Republiky, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.431818497991053, 50.088266594815806 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Skalka, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.50788609798048, 50.067973394929986 ] } }
+{ "type": "Feature", "properties": { "name": "Pražského povstání, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.433719997990838, 50.056499994816811 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Hradčanská, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.405075097994832, 50.097067094835218 ] } }
+{ "type": "Feature", "properties": { "name": "Hlavní nádraží, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.434191097990727, 50.083503794815982 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Florenc, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.439436897989976, 50.091064194815743 ] } }
+{ "type": "Feature", "properties": { "name": "Náměstí Míru, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.438415597990131, 50.0754739948162 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Dejvická, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.392595735496545, 50.100421407761608 ] } }
+{ "type": "Feature", "properties": { "name": "Vltavská, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.438569697990118, 50.099696694815485 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Muzeum, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.431995697991063, 50.079249094816099 ] } }
+{ "type": "Feature", "properties": { "name": "Florenc, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.439171697990053, 50.090783094815741 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Náměstí Míru, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.437708572990246, 50.075185995140046 ] } }
+{ "type": "Feature", "properties": { "name": "Florenc, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.439463397990011, 50.090606894815728 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Anděl, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.403790381328315, 50.068933522072442 ] } }
+{ "type": "Feature", "properties": { "name": "Pankrác, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.439732397989983, 50.051162794816996 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Muzeum, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.430157247991321, 50.079657998236542 ] } }
+{ "type": "Feature", "properties": { "name": "Nádraží Holešovice, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.440103797989886, 50.10895659481524 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Jiřího z Poděbrad, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.449041517988691, 50.077230835263158 ] } }
+{ "type": "Feature", "properties": { "name": "Budějovická, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.448653497988762, 50.044458194817167 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Hlavní nádraží, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.434219547990741, 50.083519296320603 ] } }
+{ "type": "Feature", "properties": { "name": "Jiřího z Poděbrad, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.449561997988621, 50.077449094816188 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Budějovická, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.448747697988694, 50.044426096434215 ] } }
+{ "type": "Feature", "properties": { "name": "Křižíkova, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.45179369798832, 50.093385194815703 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Vysočanská, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.50065194798149, 50.110249095226123 ] } }
+{ "type": "Feature", "properties": { "name": "Kobylisy, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.454730797987883, 50.124580094814746 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Florenc, metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.43900189799011, 50.090231994815795 ] } }
+{ "type": "Feature", "properties": { "name": "Kačerov, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.460142197987174, 50.041694094817259 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Smíchovské nádraží, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.409120197994222, 50.061120732149675 ] } }
+{ "type": "Feature", "properties": { "name": "Flora, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.462116897986819, 50.077944694816182 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Pražského povstání, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.434221097990783, 50.055971694816819 ] } }
+{ "type": "Feature", "properties": { "name": "Invalidovna, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.464180397986532, 50.097210894815568 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Hloubětín, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.537727047976329, 50.106342896137555 ] } }
+{ "type": "Feature", "properties": { "name": "Ládví, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.469216997985908, 50.126530494814645 ] } }
 ,
-{ "type": "Feature", "properties": { "name": "Flora, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.461264481320304, 50.077975561844788 ] } }
+{ "type": "Feature", "properties": { "name": "Palmovka, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.474456797985113, 50.103964494815358 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Želivského, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.474804197985099, 50.078452594816149 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Roztyly, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.476841097984769, 50.037668294817422 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Střížkov, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.489563597982995, 50.126195594814668 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Chodov, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.490289997982975, 50.031849994817598 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Strašnická, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.491293797982811, 50.072985794816276 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Českomoravská, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.492224497982708, 50.106238194815312 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Prosek, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.498275497981812, 50.119522094814855 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Vysočanská, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.500654797981499, 50.110178094815133 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Skalka, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.507363397980551, 50.068367394816455 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Opatov, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.508636797980406, 50.027870694817686 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Depo Hostivař, Metro A", "marker-symbol": "rail-underground", "marker-color": "007f00" }, "geometry": { "type": "Point", "coordinates": [ 14.515373997979486, 50.075413894816236 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Kolbenova, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.515619097979455, 50.110354894815146 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Letňany, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.516184597979333, 50.12480709481472 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Háje, Metro C", "marker-symbol": "rail-underground", "marker-color": "7f0000" }, "geometry": { "type": "Point", "coordinates": [ 14.52812399797765, 50.030976094817589 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Hloubětín, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.536967997976433, 50.106445594815277 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Rajská zahrada, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.560881197973128, 50.106922894815284 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Černý Most, Metro B", "marker-symbol": "rail-underground", "marker-color": "827f00" }, "geometry": { "type": "Point", "coordinates": [ 14.57752549797079, 50.10904789481522 ] } }
 
 ]
 }

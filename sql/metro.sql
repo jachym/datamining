@@ -6,22 +6,20 @@ insert into colors values ('Metro C', '7f0000');
 
 -- select name, geometry, symbol and color of each station
 select point.name,
-        ST_Transform(                           -- data are in 3857
-            ST_Centroid(                        -- there are more metro entrances, just one point needed
-                ST_Union(point.way)             -- join all entrances with same name into one multi-point feature
-            ),
-            4326
-        ),
+        ST_Transform(point.way,4326),           -- data are in 3857
         'rail-underground' as "marker-symbol",  -- add symbol
         colors.color as "marker-color"          -- add color
     from planet_osm_point as point
     INNER JOIN                                  -- color join
-        colors ON point.name ilike '%'||colors.name,    
-     planet_osm_polygon as polygon              
-    where polygon.name = 'Praha' AND 
+        planet_osm_line as line ON (ST_Distance(point.way, line.way) < 1)
+    INNER JOIN
+        colors ON line.name = colors.name,    
+    planet_osm_polygon as polygon             
+    where
+        point.railway='station' and
+        line.railway = 'subway' AND
+        polygon.name = 'Praha' AND 
         polygon.admin_level='8' AND 
-        point.railway = 'subway_entrance' AND 
-        (st_within(point.way, polygon.way)) AND -- only points insde of Prague city
-        point.name is not null
+        (st_within(point.way, polygon.way)) -- only points insde of Prague city
     GROUP BY
-        point.name, colors.color
+        point.way,point.name, colors.color
